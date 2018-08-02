@@ -18,8 +18,7 @@
 		6625CD3821128F19005B691D /* XLsn0wPullMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 6625CD3321128F18005B691D /* XLsn0wPullMenu.m */; };
 		6625CD3921128F19005B691D /* XLsn0wPullMenuCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6625CD3521128F18005B691D /* XLsn0wPullMenuCell.m */; };
 		6625CD3A21128F19005B691D /* XLsn0wPullMenuModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6625CD3721128F18005B691D /* XLsn0wPullMenuModel.m */; };
-		6625CD3D21128F61005B691D /* 选择流程@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6625CD3B21128F61005B691D /* 选择流程@3x.png */; };
-		6625CD3E21128F61005B691D /* 选择流程@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6625CD3C21128F61005B691D /* 选择流程@2x.png */; };
+		6625CD3E21128F61005B691D /* mainBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 6625CD3C21128F61005B691D /* mainBtn.png */; };
 		6625CD412112926C005B691D /* UIView+XLsn0w.m in Sources */ = {isa = PBXBuildFile; fileRef = 6625CD402112926C005B691D /* UIView+XLsn0w.m */; };
 		6625CD4421129286005B691D /* NSObject+XLsn0wModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6625CD4321129286005B691D /* NSObject+XLsn0wModel.m */; };
 		6625CD5F21129409005B691D /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 6625CD4721129409005B691D /* MASCompositeConstraint.m */; };
@@ -74,8 +73,7 @@
 		6625CD3521128F18005B691D /* XLsn0wPullMenuCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLsn0wPullMenuCell.m; sourceTree = "<group>"; };
 		6625CD3621128F18005B691D /* XLsn0wPullMenuModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLsn0wPullMenuModel.h; sourceTree = "<group>"; };
 		6625CD3721128F18005B691D /* XLsn0wPullMenuModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLsn0wPullMenuModel.m; sourceTree = "<group>"; };
-		6625CD3B21128F61005B691D /* 选择流程@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "选择流程@3x.png"; sourceTree = "<group>"; };
-		6625CD3C21128F61005B691D /* 选择流程@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "选择流程@2x.png"; sourceTree = "<group>"; };
+		6625CD3C21128F61005B691D /* mainBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mainBtn.png; sourceTree = "<group>"; };
 		6625CD3F2112926C005B691D /* UIView+XLsn0w.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+XLsn0w.h"; sourceTree = "<group>"; };
 		6625CD402112926C005B691D /* UIView+XLsn0w.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+XLsn0w.m"; sourceTree = "<group>"; };
 		6625CD4221129286005B691D /* NSObject+XLsn0wModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+XLsn0wModel.h"; sourceTree = "<group>"; };
@@ -161,8 +159,7 @@
 				6625CD0021128EE9005B691D /* AppDelegate.m */,
 				6625CD0221128EE9005B691D /* ViewController.h */,
 				6625CD0321128EE9005B691D /* ViewController.m */,
-				6625CD3C21128F61005B691D /* 选择流程@2x.png */,
-				6625CD3B21128F61005B691D /* 选择流程@3x.png */,
+				6625CD3C21128F61005B691D /* mainBtn.png */,
 				6625CD0521128EE9005B691D /* Main.storyboard */,
 				6625CD0821128EEA005B691D /* Assets.xcassets */,
 				6625CD0A21128EEA005B691D /* LaunchScreen.storyboard */,
@@ -345,8 +342,7 @@
 				6625CD0C21128EEA005B691D /* LaunchScreen.storyboard in Resources */,
 				6625CD0921128EEA005B691D /* Assets.xcassets in Resources */,
 				6625CD0721128EE9005B691D /* Main.storyboard in Resources */,
-				6625CD3D21128F61005B691D /* 选择流程@3x.png in Resources */,
-				6625CD3E21128F61005B691D /* 选择流程@2x.png in Resources */,
+				6625CD3E21128F61005B691D /* mainBtn.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

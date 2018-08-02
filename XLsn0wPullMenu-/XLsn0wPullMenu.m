@@ -87,7 +87,7 @@
 //    _mainBtn.backgroundColor    = [UIColor whiteColor];
 //    _mainBtn.layer.borderColor  = [UIColor blackColor].CGColor;
 //    _mainBtn.layer.borderWidth  = 1;
-    [_mainBtn setBackgroundImage:[UIImage imageNamed:@"My_devBtn"] forState:(UIControlStateNormal)];
+    [_mainBtn setBackgroundImage:[UIImage imageNamed:@"mainBtn"] forState:(UIControlStateNormal)];
 
     // 旋转尖头
     _arrowMark = [[UIImageView alloc] initWithFrame:CGRectMake(_mainBtn.frame.size.width - 15, 0, 9, 9)];

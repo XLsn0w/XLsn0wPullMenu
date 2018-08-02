@@ -14,8 +14,6 @@
 
 @interface ViewController () <XLsn0wPullMenuDelegate>
 
-@property (weak, nonatomic) IBOutlet UIButton *pullBtn;
-
 @end
 
 @implementation ViewController
@@ -28,7 +26,7 @@
     
    XLsn0wPullMenu* _menu = [[XLsn0wPullMenu alloc] init];
     [self.view addSubview:_menu];
-    [_menu setFrame:CGRectMake(15, 185, 101, 34)];
+    [_menu setFrame:CGRectMake(100, 185, 101, 34)];
     
     
     NSMutableArray *modelArray = [NSMutableArray array];
